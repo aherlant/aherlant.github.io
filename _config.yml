@@ -23,7 +23,7 @@ repository               : "aherlant/aherlant.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ahheadshot.jpg"
   name             : "Annika M. Herlant"
   pronouns         : # example: "she/her"  
   bio              : "M.A. Graduate Student and Instructional Assistant"
