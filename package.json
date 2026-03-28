@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "aherlant",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Annika M. Herlant",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/aherlant/aherlant.github.io"
   },
   "keywords": [
     "jekyll",
@@ -12,14 +12,14 @@
     "minimal"
   ],
   "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
+    "",
+    ""
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/aherlant/aherlant.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://github.com/aherlant/aherlant.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
