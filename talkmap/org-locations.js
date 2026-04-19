@@ -5,8 +5,8 @@ var addressPoints = [
     -87.6244212
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "What representations guide learning to process singular they efficiently?<br />39th Annual Conference on Human Sentence Processing; MIT, Cambridge, MA",
+    42.3582529,
+    -71.0966272
   ]
 ];
