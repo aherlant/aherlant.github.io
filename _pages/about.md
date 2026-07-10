@@ -11,6 +11,5 @@ Hello! I am a recent graduate from the [University of North Carolina at Chapel H
 
 <h2 style="display: inline;">Educational Background</h2>
 
-M.A. in Linguistics from the University of North Carolina at Chapel Hill, 2024.
-
+M.A. in Linguistics from the University of North Carolina at Chapel Hill, 2024. \
 B.A. in Linguistics; minor in Middle Eastern Languages (Arabic, Turkish) from the University of North Carolina at Chapel Hill, 2024.
